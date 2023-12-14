@@ -1,0 +1,626 @@
+[
+    {
+        "ticker": "TSLA",
+        "name": "Tesla Inc. Common Stock",
+        "industry": "Auto Manufacturing",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "PYPL",
+        "name": "PayPal Holdings Inc. Common Stock",
+        "industry": "Business Services",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "RH",
+        "name": "RH Common Stock",
+        "industry": "Other Specialty Stores",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "WEN",
+        "name": "Wendy's Company (The) Common Stock",
+        "industry": "Restaurants",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "IFN",
+        "name": "India Fund Inc. (The) Common Stock",
+        "industry": "Finance/Investors Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "IIF",
+        "name": "Morgan Stanley India Investment Fund Inc. Common Stock",
+        "industry": "Trusts Except Educational Religious and Charitable",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "IVCA",
+        "name": "Investcorp India Acquisition Corp. Class A Ordinary Share",
+        "industry": "Blank Checks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "BABA",
+        "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+        "industry": "Catalog/Specialty Distribution",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "ACR",
+        "name": "ACRES Commercial Realty Corp. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "ACRE",
+        "name": "Ares Commercial Real Estate Corporation Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "ARI",
+        "name": "Apollo Commercial Real Estate Finance Inc",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "CIK",
+        "name": "Credit Suisse Asset Management Income Fund Inc. Common Stock",
+        "industry": "Finance/Investors Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "C^N",
+        "name": "Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS)",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "EVG",
+        "name": "Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest",
+        "industry": "Investment Managers",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AI",
+        "name": "C3.ai Inc. Class A Common Stock",
+        "industry": "Computer Software: Prepackaged Software",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "BFRG",
+        "name": "Bullfrog AI Holdings Inc. Common Stock",
+        "industry": "Retail: Computer Software & Peripheral Equipment",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "BFRGW",
+        "name": "Bullfrog AI Holdings Inc. Warrants",
+        "industry": "Retail: Computer Software & Peripheral Equipment",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "KOF",
+        "name": "Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",
+        "industry": "Beverages (Production/Distribution)",
+        "sector": "Consumer Staples"
+    },
+    {
+        "ticker": "MINDP",
+        "name": "MIND Technology Inc. Series A 9.00% Series A Cumulative Preferred Stock (DE)",
+        "industry": "Industrial Machinery/Components",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "NI^B",
+        "name": "NiSource Inc Depositary Shares representing 1/1000th ownership interest in a share of 6.50% Series B Preferred Stock and 1/1000th ownership interest in a share of Series B-1 Preferred Stock",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "ENPH",
+        "name": "Enphase Energy Inc. Common Stock",
+        "industry": "Semiconductors",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "PTON",
+        "name": "Peloton Interactive Inc. Class A Common Stock",
+        "industry": "Recreational Games/Products/Toys",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "LEE",
+        "name": "Lee Enterprises Incorporated Common Stock",
+        "industry": "Newspapers/Magazines",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "META",
+        "name": "Meta Platforms Inc. Class A Common Stock",
+        "industry": "Computer Software: Programming Data Processing",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "BIG",
+        "name": "Big Lots Inc. Common Stock",
+        "industry": "Department/Specialty Retail Stores",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "LOVE",
+        "name": "The Lovesac Company Common Stock",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "JACK",
+        "name": "Jack In The Box Inc. Common Stock",
+        "industry": "Restaurants",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "DD",
+        "name": "DuPont de Nemours Inc. Common Stock",
+        "industry": "Major Chemicals",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "JPM^D",
+        "name": "J P Morgan Chase & Co Depositary Shares each representing a 1/400th  interest in a share of 5.75% Non-Cumulative  Preferred Stock Series DD",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "WFC^D",
+        "name": "Wells Fargo & Company Depositary Shares each representing a 1/1000th interest in  a share of Non-Cumulative Perpetual Class A Preferred Stock Series DD",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "GER",
+        "name": "Goldman Sachs MLP Energy Renaissance Fund",
+        "industry": "Trusts Except Educational Religious and Charitable",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "GJS",
+        "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
+        "industry": "Investment Bankers/Brokers/Service",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AM",
+        "name": "Antero Midstream Corporation Common Stock",
+        "industry": "Natural Gas Distribution",
+        "sector": "Utilities"
+    },
+    {
+        "ticker": "CVNA",
+        "name": "Carvana Co. Class A Common Stock",
+        "industry": "Retail-Auto Dealers and Gas Stations",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "KIM^M",
+        "name": "Kimco Realty Corporation Class M Depositary Shares each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock liquidation preference $25000.00 per share",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "DK",
+        "name": "Delek US Holdings Inc. Common Stock",
+        "industry": "Integrated oil Companies",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "FUSB",
+        "name": "First US Bancshares Inc. Common Stock",
+        "industry": "Major Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "SFM",
+        "name": "Sprouts Farmers Market Inc. Common Stock",
+        "industry": "Food Chains",
+        "sector": "Consumer Staples"
+    },
+    {
+        "ticker": "BROS",
+        "name": "Dutch Bros Inc. Class A Common Stock",
+        "industry": "Restaurants",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "ACGLO",
+        "name": "Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F",
+        "industry": "Property-Casualty Insurers",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AEL^A",
+        "name": "American Equity Investment Life Holding Company Depositary Shares each representing a 1/1000th interest in a share of 5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock Series A",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "AEL^B",
+        "name": "American Equity Investment Life Holding Company Depositary Shares each representing a 1/1000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock Series B",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "AMPY",
+        "name": "Amplify Energy Corp. Common Stock",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "CEI",
+        "name": "Camber Energy Inc. Common Stock",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "CHK",
+        "name": "Chesapeake Energy Corporation Common Stock",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "ATH^B",
+        "name": "Athene Holding Ltd. Depositary Shares Each Representing a 1/1000th Interest in a 5.625% Fixed Rate Perpetual Non- Cumulative Preference Share Series B par value $1.00 per share",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "TCJH",
+        "name": "Top KingWin Ltd Class A Ordinary Shares",
+        "industry": "Business Services",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "TOPS",
+        "name": "TOP Ships Inc. Common Stock",
+        "industry": "Marine Transportation",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "AES",
+        "name": "The AES Corporation Common Stock",
+        "industry": "Electric Utilities: Central",
+        "sector": "Utilities"
+    },
+    {
+        "ticker": "BAC",
+        "name": "Bank of America Corporation Common Stock",
+        "industry": "Major Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "CVU",
+        "name": "CPI Aerostructures Inc. Common Stock",
+        "industry": "Military/Government/Technical",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "PMTS",
+        "name": "CPI Card Group Inc. Common Stock",
+        "industry": "Finance Companies",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AGNCL",
+        "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AGNCN",
+        "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "ROKU",
+        "name": "Roku Inc. Class A Common Stock",
+        "industry": "Cable & Other Pay Television Services",
+        "sector": "Telecommunications"
+    },
+    {
+        "ticker": "HOOD",
+        "name": "Robinhood Markets Inc. Class A Common Stock",
+        "industry": "Computer Software: Prepackaged Software",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "ORCL",
+        "name": "Oracle Corporation Common Stock",
+        "industry": "Computer Software: Prepackaged Software",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "BBY",
+        "name": "Best Buy Co. Inc. Common Stock",
+        "industry": "Consumer Electronics/Video Chains",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "NYCB^U",
+        "name": "New York Community Bancorp Inc. New York Community Capital Tr V (BONUSES)",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "GOLD",
+        "name": "Barrick Gold Corporation Common Stock (BC)",
+        "industry": "",
+        "sector": ""
+    },
+    {
+        "ticker": "LCID",
+        "name": "Lucid Group Inc. Common Stock",
+        "industry": "Auto Manufacturing",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "COIN",
+        "name": "Coinbase Global Inc. Class A Common Stock",
+        "industry": "Finance: Consumer Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AMWL",
+        "name": "American Well Corporation Class A Common Stock",
+        "industry": "Retail: Computer Software & Peripheral Equipment",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "WELL",
+        "name": "Welltower Inc. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "LSI",
+        "name": "Life Storage Inc. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AAP",
+        "name": "Advance Auto Parts Inc.",
+        "industry": "Auto & Home Supply Stores",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "MVIS",
+        "name": "MicroVision Inc. Common Stock",
+        "industry": "Industrial Machinery/Components",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "NIO",
+        "name": "NIO Inc. American depositary shares each  representing one Class A ordinary share",
+        "industry": "Auto Manufacturing",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "QTWO",
+        "name": "Q2 Holdings Inc. Common Stock",
+        "industry": "EDP Services",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "PL",
+        "name": "Planet Labs PBC Class A Common Stock",
+        "industry": "Aerospace",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "UP",
+        "name": "Wheels Up Experience Inc. Class A Common Stock",
+        "industry": "Aerospace",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "CNQ",
+        "name": "Canadian Natural Resources Limited Common Stock",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "PAA",
+        "name": "Plains All American Pipeline L.P. Common Units representing Limited Partner Interests",
+        "industry": "Natural Gas Distribution",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "AAPL",
+        "name": "Apple Inc. Common Stock",
+        "industry": "Computer Manufacturing",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "MCD",
+        "name": "McDonald's Corporation Common Stock",
+        "industry": "Restaurants",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "GXO",
+        "name": "GXO Logistics Inc. Common Stock ",
+        "industry": "Transportation Services",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "SHEL",
+        "name": "Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "SOFI",
+        "name": "SoFi Technologies Inc. Common Stock  ",
+        "industry": "Diversified Financial Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "INTC",
+        "name": "Intel Corporation Common Stock",
+        "industry": "Semiconductors",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "MAIN",
+        "name": "Main Street Capital Corporation Common Stock",
+        "industry": "Finance/Investors Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "PK",
+        "name": "Park Hotels & Resorts Inc. Common Stock ",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "GSL",
+        "name": "Global Ship Lease Inc New Class A Common Shares",
+        "industry": "Marine Transportation",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "SUPV",
+        "name": "Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares",
+        "industry": "Commercial Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "TSAT",
+        "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares ",
+        "industry": "Metal Fabrications",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "APLE",
+        "name": "Apple Hospitality REIT Inc. Common Shares",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AMAL",
+        "name": "Amalgamated Financial Corp. Common Stock (DE)",
+        "industry": "Commercial Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AVAL",
+        "name": "Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)",
+        "industry": "Commercial Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "BBAR",
+        "name": "Banco BBVA Argentina S.A. ADS",
+        "industry": "Commercial Banks",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "ALPS",
+        "name": "Alpine Summit Energy Partners Inc. Class A Subordinate Voting Shares",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "APA",
+        "name": "APA Corporation Common Stock",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy"
+    },
+    {
+        "ticker": "AAIC",
+        "name": "Arlington Asset Investment Corp Class A (new)",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AAIN",
+        "name": "Arlington Asset Investment Corp 6.000% Senior Notes Due 2026",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AAT",
+        "name": "American Assets Trust Inc. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "AEL",
+        "name": "American Equity Investment Life Holding Company Common Stock",
+        "industry": "Life Insurance",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "FG",
+        "name": "F&G Annuities & Life Inc. Common Stock",
+        "industry": "Life Insurance",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "GL",
+        "name": "Globe Life Inc. Common Stock",
+        "industry": "Life Insurance",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "AIRC",
+        "name": "Apartment Income REIT Corp. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "GIPR",
+        "name": "Generation Income Properties Inc. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "IOR",
+        "name": "Income Opportunity Realty Investors Inc. Common Stock",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Real Estate"
+    },
+    {
+        "ticker": "DOW",
+        "name": "Dow Inc. Common Stock ",
+        "industry": "Major Chemicals",
+        "sector": "Industrials"
+    },
+    {
+        "ticker": "PACK",
+        "name": "Ranpak Holdings Corp Class A Common Stock",
+        "industry": "Containers/Packaging",
+        "sector": "Consumer Discretionary"
+    },
+    {
+        "ticker": "GAIN",
+        "name": "Gladstone Investment Corporation Business Development Company",
+        "industry": "Finance: Consumer Services",
+        "sector": "Finance"
+    },
+    {
+        "ticker": "PLTR",
+        "name": "Palantir Technologies Inc. Class A Common Stock",
+        "industry": "Retail: Computer Software & Peripheral Equipment",
+        "sector": "Technology"
+    },
+    {
+        "ticker": "MGAM",
+        "name": "Mobile Global Esports Inc. Common Stock",
+        "industry": "EDP Services",
+        "sector": "Technology"
+    }
+]
